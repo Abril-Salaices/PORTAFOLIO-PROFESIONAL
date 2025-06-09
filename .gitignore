@@ -1,0 +1,6 @@
+# Ignorar carpetas de trabajo y pruebas
+Practicas-de-codigos/
+recursos/
+portafolio-antiguo/
+*.log
+*.tmp
